@@ -10,27 +10,19 @@ We will use these discussions to visualize the social discourse during these dir
 ## Notebooks & their description
 
 1. Notebooks for hydrating tweet IDs
-
-  a. [Hyrdating from CLI](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Hydrating_notebook_from_CLI.ipynb)
-  
-  b. [Hydrating tweet IDs Streaming to AWS Kinesis](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Hydrating_Streaming_AWS_Kinesis.ipynb)
+    - [Hyrdating from CLI](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Hydrating_notebook_from_CLI.ipynb)
+    - [Hydrating tweet IDs Streaming to AWS Kinesis](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Hydrating_Streaming_AWS_Kinesis.ipynb)
 
 2. Notebook for Spark streaming & batch analysis
-
-  a. [Batch analysis of hydrated tweets](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Analyzing_Tweets_PySpark_Batch_Analytics.ipynb)
-  
-  b. [Streaming version of above notebook](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Covid19_Tweets_Streaming_Analysis_from_AWS_Kinesis.ipynb)
+    - [Batch analysis of hydrated tweets](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Analyzing_Tweets_PySpark_Batch_Analytics.ipynb)
+    - [Streaming version of above notebook](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Covid19_Tweets_Streaming_Analysis_from_AWS_Kinesis.ipynb)
 
 3. Notebook for Network analysis
-
-  a. [Network analysis & visualization](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/COVID19_NetworkX_Analysis.ipynb)
+    - [Network analysis & visualization](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/COVID19_NetworkX_Analysis.ipynb)
   
 
 4. Fact-checker tweet analysis 
-
-  a. [Detect Fake News](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/twitter_detect_fake_news.ipynb)
-  
-  b. [Clustering of Fact Checker Tweets](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Fake_News_Countering.ipynb)
-  
-  c. [Fact Checker Labelling](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Fact_Check_News_Labelling.ipynb)
+    - [Detect Fake News](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/twitter_detect_fake_news.ipynb)
+    - [Clustering of Fact Checker Tweets](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Fake_News_Countering.ipynb)
+    - [Fact Checker Labelling](https://github.com/CoronaWhy/Hackathon-For-Social-Good/blob/master/Fact_Check_News_Labelling.ipynb)
 
